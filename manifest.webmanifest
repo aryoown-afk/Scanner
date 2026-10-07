@@ -1,0 +1,25 @@
+{
+  "name": "Binance Spot Scanner M15",
+  "short_name": "Spot Scanner M15",
+  "description": "Binance Spot Scanner & Backtest \u2014 Trend Momentum Breakout M15",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b0e11",
+  "theme_color": "#0b0e11",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
